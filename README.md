@@ -19,7 +19,7 @@
 
 
 ## Technologies Used
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Canvas](https://img.shields.io/npm/v/react-canvas-js.svg) 
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 - react - 16.13.1
 - drawing-react-canvas - 0.1.0
 
